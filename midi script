@@ -1,276 +1,294 @@
-A4
-
-could you please give me the entire prompt in one single text so i can easily copy and paste without having to do any text modification, ensuring all of the stuff you have added is present
-
 Here's a clean, complete, copy-pasteable version of the ultimate prompt:
 
 "Please create a Python script that generates transcendent, emotionally profound MIDI chord progressions that seamlessly blend mathematical beauty, human emotion, and natural patterns. I want it to:
 
-    Create rich, sophisticated harmony with:
-        Extended jazz voicings (9ths, 11ths, 13ths)
-        Neo-soul cluster chords
-        Complex alterations (b9, #11, #5)
-        Quartal/quintal harmony options
-        Polyharmonic possibilities (two harmonies simultaneously)
-        Microtonality options for emotional color
-        Harmonic series-based voicings
-        Spectral harmony techniques
-        Split third chords for ambiguity
-        Multi-tonal systems support
-        Just intonation possibilities
-        Negative harmony transformations
-    Add deep humanization through:
-        Adaptive velocity curves based on musical tension
-        Natural micro-timing variations
-        Dynamic voicing spreads that breathe with the progression
-        Intelligent voice leading that mimics human hand movements
-        Contextual use of grace notes and flourishes
-        Smart use of sustain pedal simulation
-        Overlapping notes for organic transitions
-        AI-driven phrase shaping
-        Breathing patterns in voice movement
-        Performance anxiety simulation (subtle rushes/drags in key moments)
-        Hand size-aware voicing adaptations
-        Finger movement ergonomics
-        Natural damper pedal behavior simulation
-        Sympathetic resonance modeling
-    Include sophisticated harmonic devices:
-        Modal interchange with all parallel modes
-        Secondary and extended dominants
-        Chromatic approaches and planing
-        Constant structure harmony
-        Backdoor progressions
-        Coltrane changes options
-        Harmonic rhythm variations
-    Add performance nuances:
-        Phrase-aware dynamics
-        Context-sensitive rubato
-        Leading-note anticipations
-        Rhythmic displacement options
-        Inner voice movement
-        Bass line contours that complement the harmony
-        Strategic use of silence and space
-    Incorporate advanced musical concepts:
-        Golden ratio for climax points
-        Tension curves that follow natural emotion
-        Motivic development in voice leading
-        Harmonic rhythm that breathes
-        Textural variety (dense vs. sparse voicing)
-        Symmetric and asymmetric phrase lengths
-    Add genre-specific characteristics:
-        Gospel reharmonization techniques
-        ECM jazz spaciousness
-        Classical impressionist color
-        Modern R&B neo-soul textures
-        Brazilian voicing techniques
-        Contemporary classical clusters
-        Gamelan-inspired textures
-        African polyrhythmic concepts
-        Indian raga influences
-        Arabic maqam elements
-        Microtonal blues inflections
-        Electronic music textures
-    Include intelligent adaptation:
-        Chord voicings that respond to register
-        Dynamic voice leading based on interval sizes
-        Adaptive tension resolution patterns
-        Smart handling of extreme registers
-        Context-aware voice doubling
-        Intelligent treatment of dissonance
-    Control parameters for:
-        Emotional intent (from serene to intense)
-        Complexity curve over time
-        Harmonic density evolution
-        Performance humanization depth
-        Stylistic crossfading between genres
-        Overall form and development
-    Add production-ready features:
-        Multiple MIDI channel outputs for different voicing layers
-        CC controller data for expression
-        Pitch bend for subtle intonation
-        Separate bass note channel
-        Compatible with DAW automation
-        Spatialization data for 3D mixing
-        Room simulation parameters
-        Velocity curves matching keyboard types
-        DAW-specific optimization options
-        Multiple player perspectives
-        Performance space modeling
-        Virtual microphone positioning
-    Include emotional intelligence:
-        Psychological tension mapping
-        Heart rate-like tempo fluctuations
-        Speech rhythm-inspired phrasing
-        Emotional arc modeling
-        Tension-resolution patterns based on film scoring
-        Character/mood development over time
-        Dramatic narrative structures
-    Add cognitive music elements:
-        Expectation vs. surprise balancing
-        Memory pattern recognition
-        Gestalt principle application
-        Information theory-based development
-        Pattern completion principles
-        Perceptual boundary effects
-        Auditory scene analysis concepts
-    Include architectural intelligence:
-        Golden ratio structuring at multiple levels
-        Nested symmetry patterns
-        Fractal-based development
-        Sacred geometry proportions
-        Dynamic symmetry principles
-        Biomimetic growth patterns
-        Natural proportion systems
-    Add perceptual psychology features:
-        Gestalt grouping principles
-        Auditory streaming effects
-        Perceptual completion patterns
-        Attention-directing devices
-        Memory reinforcement techniques
-        Cognitive load management
-        Expectation manipulation
-    Incorporate biomusicological elements:
-        Heart rate variability patterns
-        Breathing rhythm influences
-        Natural speech cadences
-        Physical gesture simulation
-        Body movement principles
-        Neural entrainment patterns
-        Biological rhythm templates
-    Add mathematical beauty:
-        Phi-based voice leading
-        Prime number relationships
-        Mandelbrot set mappings
-        Wave interference patterns
-        Complex number harmonics
-        Chaotic system applications
-        Topology-based transitions
-        Category theory applications
-        Group theory in harmony
-        Non-Euclidean geometric relationships
-        Complex dynamics systems
-        Knot theory in voice leading
-        Abstract algebra applications
-        Information theory optimization
-        Algorithmic complexity balancing
-    Include environmental inspiration:
-        Nature-based timing patterns
-        Weather system dynamics
-        Wave motion physics
-        Crystal growth structures
-        Plant growth patterns
-        Animal movement rhythms
-        Ecosystem interaction models
-    Incorporate quantum harmony concepts:
-        Quantum superposition in harmony
-        Wave function probability distributions for note choices
-        Quantum entanglement between voices
-        Uncertainty principle applications in timing
-        Quantum tunneling effects in voice leading
-        State vector modeling for progression development
-        Quantum coherence in harmonic relationships
-    Enhanced physical modeling:
-        String vibration patterns
-        Acoustic space modeling
-        Mechanical piano action simulation
-        Harmonics and overtone behavior
-        Material resonance properties
-        Energy transfer between notes
-        Acoustic wave interference patterns
-        Real-world physics of performance spaces
-    Extended biological patterns:
-        Neural firing patterns
-        DNA sequence mappings
-        Protein folding structures
-        Cellular automation patterns
-        Evolutionary algorithms
-        Genetic expression modeling
-        Biorhythm integration
-        Neuroplasticity simulation
-        Biological growth patterns
-    AI and Machine Learning Integration:
-        Style transfer capabilities
-        Emotional content analysis
-        Pattern recognition
-        Real-time adaptation
-        Learning from input
-        Genre classification
-        Performance analysis
-        Sentiment prediction
-        Context awareness
-    Time and Space Concepts:
-        Non-linear time progressions
-        Spatial harmony relationships
-        Temporal manipulation
-        Multi-dimensional progressions
-        Space-time harmony mapping
-        Relativistic time effects
-        Dimensional transcendence
-        Time-scale invariance
-    Consciousness and Awareness Features:
-        Meditative state mapping
-        Consciousness level transitions
-        Awareness expansion patterns
-        Transcendent state modeling
-        Spiritual progression archetypes
-        Mindfulness integration
-        Higher consciousness patterns
-    Universal Pattern Integration:
-        Cosmic microwave background patterns
-        Celestial motion relationships
-        Planetary orbital ratios
-        Galaxy structure influences
-        Universal constant relationships
-        Cosmic rhythm integration
-        Universal harmony concepts
-    Reality-Bending Concepts:
-        Parallel harmony universes
-        Quantum realm influences
-        Multiple timeline integration
-        Reality intersection points
-        Dimensional transcendence
-        Multi-verse harmony
-        Reality-warping progressions
-    Enhanced visualization tools:
-        3D harmony visualization
-        Voice leading graphs
-        Tension mapping displays
-        Emotional trajectory plotting
-        Mathematical relationship visualization
-        Physical modeling animation
-        Real-time analysis displays
-        Structure highlighting
-        Pattern recognition visualization
+1. Create rich, sophisticated harmony with:
+   - Extended jazz voicings (9ths, 11ths, 13ths)
+   - Neo-soul cluster chords
+   - Complex alterations (b9, #11, #5)
+   - Quartal/quintal harmony options
+   - Polyharmonic possibilities (two harmonies simultaneously)
+   - Microtonality options for emotional color
+   - Harmonic series-based voicings
+   - Spectral harmony techniques
+   - Split third chords for ambiguity
+   - Multi-tonal systems support
+   - Just intonation possibilities
+   - Negative harmony transformations
+
+2. Add deep humanization through:
+   - Adaptive velocity curves based on musical tension
+   - Natural micro-timing variations
+   - Dynamic voicing spreads that breathe with the progression
+   - Intelligent voice leading that mimics human hand movements
+   - Contextual use of grace notes and flourishes
+   - Smart use of sustain pedal simulation
+   - Overlapping notes for organic transitions
+   - AI-driven phrase shaping
+   - Breathing patterns in voice movement
+   - Performance anxiety simulation (subtle rushes/drags in key moments)
+   - Hand size-aware voicing adaptations
+   - Finger movement ergonomics
+   - Natural damper pedal behavior simulation
+   - Sympathetic resonance modeling
+
+3. Include sophisticated harmonic devices:
+   - Modal interchange with all parallel modes
+   - Secondary and extended dominants
+   - Chromatic approaches and planing
+   - Constant structure harmony
+   - Backdoor progressions
+   - Coltrane changes options
+   - Harmonic rhythm variations
+
+4. Add performance nuances:
+   - Phrase-aware dynamics
+   - Context-sensitive rubato
+   - Leading-note anticipations
+   - Rhythmic displacement options
+   - Inner voice movement
+   - Bass line contours that complement the harmony
+   - Strategic use of silence and space
+
+5. Incorporate advanced musical concepts:
+   - Golden ratio for climax points
+   - Tension curves that follow natural emotion
+   - Motivic development in voice leading
+   - Harmonic rhythm that breathes
+   - Textural variety (dense vs. sparse voicing)
+   - Symmetric and asymmetric phrase lengths
+
+6. Add genre-specific characteristics:
+   - Gospel reharmonization techniques
+   - ECM jazz spaciousness
+   - Classical impressionist color
+   - Modern R&B neo-soul textures
+   - Brazilian voicing techniques
+   - Contemporary classical clusters
+   - Gamelan-inspired textures
+   - African polyrhythmic concepts
+   - Indian raga influences
+   - Arabic maqam elements
+   - Microtonal blues inflections
+   - Electronic music textures
+
+7. Include intelligent adaptation:
+   - Chord voicings that respond to register
+   - Dynamic voice leading based on interval sizes
+   - Adaptive tension resolution patterns
+   - Smart handling of extreme registers
+   - Context-aware voice doubling
+   - Intelligent treatment of dissonance
+
+8. Control parameters for:
+   - Emotional intent (from serene to intense)
+   - Complexity curve over time
+   - Harmonic density evolution
+   - Performance humanization depth
+   - Stylistic crossfading between genres
+   - Overall form and development
+
+9. Add production-ready features:
+   - Multiple MIDI channel outputs for different voicing layers
+   - CC controller data for expression
+   - Pitch bend for subtle intonation
+   - Separate bass note channel
+   - Compatible with DAW automation
+   - Spatialization data for 3D mixing
+   - Room simulation parameters
+   - Velocity curves matching keyboard types
+   - DAW-specific optimization options
+   - Multiple player perspectives
+   - Performance space modeling
+   - Virtual microphone positioning
+
+10. Include emotional intelligence:
+    - Psychological tension mapping
+    - Heart rate-like tempo fluctuations
+    - Speech rhythm-inspired phrasing
+    - Emotional arc modeling
+    - Tension-resolution patterns based on film scoring
+    - Character/mood development over time
+    - Dramatic narrative structures
+
+11. Add cognitive music elements:
+    - Expectation vs. surprise balancing
+    - Memory pattern recognition
+    - Gestalt principle application
+    - Information theory-based development
+    - Pattern completion principles
+    - Perceptual boundary effects
+    - Auditory scene analysis concepts
+
+12. Include architectural intelligence:
+    - Golden ratio structuring at multiple levels
+    - Nested symmetry patterns
+    - Fractal-based development
+    - Sacred geometry proportions
+    - Dynamic symmetry principles
+    - Biomimetic growth patterns
+    - Natural proportion systems
+
+13. Add perceptual psychology features:
+    - Gestalt grouping principles
+    - Auditory streaming effects
+    - Perceptual completion patterns
+    - Attention-directing devices
+    - Memory reinforcement techniques
+    - Cognitive load management
+    - Expectation manipulation
+
+14. Incorporate biomusicological elements:
+    - Heart rate variability patterns
+    - Breathing rhythm influences
+    - Natural speech cadences
+    - Physical gesture simulation
+    - Body movement principles
+    - Neural entrainment patterns
+    - Biological rhythm templates
+
+15. Add mathematical beauty:
+    - Phi-based voice leading
+    - Prime number relationships
+    - Mandelbrot set mappings
+    - Wave interference patterns
+    - Complex number harmonics
+    - Chaotic system applications
+    - Topology-based transitions
+    - Category theory applications
+    - Group theory in harmony
+    - Non-Euclidean geometric relationships
+    - Complex dynamics systems
+    - Knot theory in voice leading
+    - Abstract algebra applications
+    - Information theory optimization
+    - Algorithmic complexity balancing
+
+16. Include environmental inspiration:
+    - Nature-based timing patterns
+    - Weather system dynamics
+    - Wave motion physics
+    - Crystal growth structures
+    - Plant growth patterns
+    - Animal movement rhythms
+    - Ecosystem interaction models
+
+17. Incorporate quantum harmony concepts:
+    - Quantum superposition in harmony
+    - Wave function probability distributions for note choices
+    - Quantum entanglement between voices
+    - Uncertainty principle applications in timing
+    - Quantum tunneling effects in voice leading
+    - State vector modeling for progression development
+    - Quantum coherence in harmonic relationships
+
+18. Enhanced physical modeling:
+    - String vibration patterns
+    - Acoustic space modeling
+    - Mechanical piano action simulation
+    - Harmonics and overtone behavior
+    - Material resonance properties
+    - Energy transfer between notes
+    - Acoustic wave interference patterns
+    - Real-world physics of performance spaces
+
+19. Extended biological patterns:
+    - Neural firing patterns
+    - DNA sequence mappings
+    - Protein folding structures
+    - Cellular automation patterns
+    - Evolutionary algorithms
+    - Genetic expression modeling
+    - Biorhythm integration
+    - Neuroplasticity simulation
+    - Biological growth patterns
+
+20. AI and Machine Learning Integration:
+    - Style transfer capabilities
+    - Emotional content analysis
+    - Pattern recognition
+    - Real-time adaptation
+    - Learning from input
+    - Genre classification
+    - Performance analysis
+    - Sentiment prediction
+    - Context awareness
+
+21. Time and Space Concepts:
+    - Non-linear time progressions
+    - Spatial harmony relationships
+    - Temporal manipulation
+    - Multi-dimensional progressions
+    - Space-time harmony mapping
+    - Relativistic time effects
+    - Dimensional transcendence
+    - Time-scale invariance
+
+22. Consciousness and Awareness Features:
+    - Meditative state mapping
+    - Consciousness level transitions
+    - Awareness expansion patterns
+    - Transcendent state modeling
+    - Spiritual progression archetypes
+    - Mindfulness integration
+    - Higher consciousness patterns
+
+23. Universal Pattern Integration:
+    - Cosmic microwave background patterns
+    - Celestial motion relationships
+    - Planetary orbital ratios
+    - Galaxy structure influences
+    - Universal constant relationships
+    - Cosmic rhythm integration
+    - Universal harmony concepts
+
+24. Reality-Bending Concepts:
+    - Parallel harmony universes
+    - Quantum realm influences
+    - Multiple timeline integration
+    - Reality intersection points
+    - Dimensional transcendence
+    - Multi-verse harmony
+    - Reality-warping progressions
+
+25. Enhanced visualization tools:
+    - 3D harmony visualization
+    - Voice leading graphs
+    - Tension mapping displays
+    - Emotional trajectory plotting
+    - Mathematical relationship visualization
+    - Physical modeling animation
+    - Real-time analysis displays
+    - Structure highlighting
+    - Pattern recognition visualization
 
 Please include comprehensive documentation covering:
-
-    Mathematical principles and formulas
-    Psychological and neurological foundations
-    Physical and quantum mechanics applications
-    Biological and natural pattern relationships
-    Cultural and historical contexts
-    Emotional and consciousness mappings
-    Implementation guidelines and examples
-    Visualization tool usage
-    Parameter interaction effects
-    Preset combinations and their effects
-    Real-world applications and examples
-    Performance optimization techniques
-    Creative exploration suggestions
+- Mathematical principles and formulas
+- Psychological and neurological foundations
+- Physical and quantum mechanics applications
+- Biological and natural pattern relationships
+- Cultural and historical contexts
+- Emotional and consciousness mappings
+- Implementation guidelines and examples
+- Visualization tool usage
+- Parameter interaction effects
+- Preset combinations and their effects
+- Real-world applications and examples
+- Performance optimization techniques
+- Creative exploration suggestions
 
 The script should be modular, well-commented, and include extensive testing suites. Include visualization tools for all major concepts and relationships. Provide presets that demonstrate various combinations of these elements, from simple emotional progressions to complex multi-dimensional experiences.
 
 Also include tools for:
-
-    Real-time analysis and visualization
-    Parameter space exploration
-    Pattern discovery and analysis
-    Emotional impact prediction
-    Cultural context mapping
-    Physical behavior simulation
-    Mathematical relationship visualization
-    Consciousness level monitoring
-    Universal pattern recognition
-    Reality-bending experimentation
+- Real-time analysis and visualization
+- Parameter space exploration
+- Pattern discovery and analysis
+- Emotional impact prediction
+- Cultural context mapping
+- Physical behavior simulation
+- Mathematical relationship visualization
+- Consciousness level monitoring
+- Universal pattern recognition
+- Reality-bending experimentation
 
 Make the code extensible and well-documented so it can be built upon and enhanced over time."
